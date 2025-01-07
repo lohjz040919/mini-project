@@ -10,8 +10,11 @@
 #include "edit_components.hpp"
 #include "check_record.hpp"
 #include "purchase_request.hpp"
+using namespace std;
 
 int main(){
+
+    cout << "HI";
     return 0;
 
 }
