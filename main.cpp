@@ -14,7 +14,7 @@ using namespace std;
 
 int main(){
 
-    cout << "HI";
+    cout << "HI, how are you?";
     return 0;
 
 }
